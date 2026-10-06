@@ -1,6 +1,7 @@
 {
   "name": "TheGreatSeverance.EditModeTests",
-  "references": [],
+  "rootNamespace": "TheGreatSeverance.Tests",
+  "references": ["TheGreatSeverance.Runtime"],
   "optionalUnityReferences": ["TestAssemblies"],
   "includePlatforms": ["Editor"],
   "excludePlatforms": [],
